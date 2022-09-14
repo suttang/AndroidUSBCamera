@@ -1,3 +1,10 @@
+# Prerequisite
+
+- Install CMake 3.10.2 from SDK Manager
+- Install NDK from SDK Manager
+- Set `ndk.dir` to your `local.properties` like `ndk.dir=/Users/YOU/Library/Android/sdk/ndk/25.1.8937393`
+
+
 ![logo.png](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/906db02b1dbc49669c38f870b6df2e96~tplv-k3u1fbpfcp-watermark.image?)
 
 
